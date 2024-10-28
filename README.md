@@ -4,6 +4,7 @@ Hands-Free Music Control: Play, Pause, and Move to the Beat!
 
 ## Introduction
 Musik Plair is a motion-activated music player built with Python, Arduino, and a PIR (Passive Infrared) sensor. The system automatically toggles music playback based on detected motion, providing an interactive, hands-free audio experience.
+![UI Preview](UI.png)
 
 ## Features
 - **Motion-Activated Control**: Music playback automatically starts or stops based on detected motion.
